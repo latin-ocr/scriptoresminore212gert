@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptoresminore212gert/scriptoresminore212gert_0011.png"; bbox 0 0 2242 3551; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 960 1286 1043 1334">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 960 1286 1043 1334">
+     <span class='ocr_line' id='line_1_1' title="bbox 960 1286 1043 1334; baseline 0.012 -1"><span class='ocrx_word' id='word_1_1' title='bbox 960 1286 1043 1334; x_wconf 94' lang='lat' dir='ltr'>VI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 373 1432 1636 1606">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 373 1432 1636 1606">
+     <span class='ocr_line' id='line_1_2' title="bbox 373 1432 1636 1494; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 373 1433 649 1494; x_wconf 82' lang='lat' dir='ltr'>VETVS</span> <span class='ocrx_word' id='word_1_3' title='bbox 691 1432 1135 1494; x_wconf 83' lang='lat' dir='ltr'>CHRONICA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1177 1433 1636 1494; x_wconf 83' lang='lat' dir='ltr'>SIALANDIE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 713 1564 1294 1606; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 713 1565 835 1606; x_wconf 88' lang='lat' dir='ltr'>CVM</span> <span class='ocrx_word' id='word_1_6' title='bbox 868 1564 1294 1606; x_wconf 83' lang='lat' dir='ltr'><strong>APPENDICVLA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 249 3144 686 3174">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 249 3144 686 3174">
+     <span class='ocr_line' id='line_1_4' title="bbox 249 3144 686 3174; baseline -0.002 -6"><span class='ocrx_word' id='word_1_7' title='bbox 249 3144 350 3174; x_wconf 82' lang='lat' dir='ltr'>Script.</span> <span class='ocrx_word' id='word_1_8' title='bbox 372 3145 437 3169; x_wconf 79' lang='lat' dir='ltr'><strong>hist.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 460 3145 529 3168; x_wconf 79' lang='lat' dir='ltr'>Dan.</span> <span class='ocrx_word' id='word_1_10' title='bbox 552 3152 579 3168; x_wconf 85' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_11' title='bbox 583 3146 686 3168; x_wconf 52' lang='lat' dir='ltr'>iiiiiiii</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
